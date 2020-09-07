@@ -15,7 +15,7 @@ namespace OnlineShop.WebUI.Migrations
         protected override void Seed(OnlineShop.WebUI.Models.ApplicationDbContext context)
         {
             //  This method will be called after migrating to the latest version.
-
+            //Seed Method
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
             //  to avoid creating duplicate seed data.
         }
